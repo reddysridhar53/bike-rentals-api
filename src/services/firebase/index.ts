@@ -3,12 +3,12 @@ import { getFirestore, collection } from "firebase/firestore";
 import { getStorage } from "firebase/storage";
 
 const firebaseConfig = {
-    apiKey: "AIzaSyASG6f0Rg3q5FnUmeYkJ2oM4fEbfifa3eM",
-    authDomain: "bike-renttals.firebaseapp.com",
+    apiKey: "",
+    authDomain: "",
     projectId: "bike-renttals",
-    storageBucket: "bike-renttals.appspot.com",
-    messagingSenderId: "617913556659",
-    appId: "1:617913556659:web:f0420a052b840ae2fadac6"
+    storageBucket: "",
+    messagingSenderId: "",
+    appId: ""
 };
 
 class FirebaseService {
